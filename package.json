@@ -1,6 +1,6 @@
 {
   "name": "net.narazaka.unity.nopshader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "NOP Shader",
   "description": "The shader that does nothing. for empty material slots.",
   "author": {
