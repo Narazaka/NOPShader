@@ -5,7 +5,7 @@ Shader "NOPShader"
     }
     SubShader
     {
-        Tags { "RenderType"="Opaque" }
+        Tags { "RenderType"="Opaque" "VRCFallback"="Hidden" }
         LOD 100
         ColorMask 0
         ZWrite Off
